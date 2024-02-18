@@ -47,6 +47,7 @@ const Footer = ()=>{
       <span
         class="btn text-white btn-floating m-1"
         style={{backgroundColor: "#0082ca"}}
+        herf="https://www.linkedin.com/in/akash-sagar-as/"
         
         role="button"
         ><i class="fab fa-linkedin-in"></i
@@ -55,7 +56,7 @@ const Footer = ()=>{
       <a
         class="btn text-white btn-floating m-1"
         style={{backgroundColor: "#333333"}}
-        href="https://github.com/deepakrawat0007/Task-Manager-APP"
+        href="https://github.com/AkashSagar0"
         title="Git-Repo"
         role="button"
         ><i class="fab fa-github"></i
@@ -68,7 +69,7 @@ const Footer = ()=>{
   {/* <!-- Copyright --> */}
   <div class="text-center p-3" style={{backgroundColor: "rgba(0, 0, 0, 0.2)"}}>
     © 2023 Copyright: ALL Rights Reserved 
-    <span class="text-white" href="https://mdbootstrap.com/"> Deepak Rawat</span>
+    <span class="text-white" href="https://mdbootstrap.com/"> Akash Sagar</span>
   </div>
   {/* <!-- Copyright --> */}
 </footer></>
